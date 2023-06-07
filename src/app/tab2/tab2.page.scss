@@ -1,0 +1,78 @@
+.img-circle-small {
+    width: 100px;
+    height:102px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    border: 2px solid #CCC;
+    margin-bottom: 2px;
+    margin-left: 650px;
+    margin-top: 30px;
+    position: static
+
+    
+  }
+  .maps{
+    position:relative
+  }
+
+.status{
+    width: 16px;
+    height:16px;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    border: 2px solid #CCC;
+    margin-bottom: 2px;
+    background-color: green;
+
+    position: absolute;
+
+  }
+
+.temp{
+  position: relative;
+  display: inline-block;
+}
+.topRight{
+   top: 0;
+   right: 0;
+}
+
+#search {
+    --border-radius: 5%;
+}
+
+#alarma {
+  --background: rgba(23,29,61,255);
+  width:750px;
+  height: 80px;
+  font-size: 27px;
+  margin-left: 45px;
+  text-transform: none;
+  --border-radius: 10px;
+  margin-top: 20px;
+}
+
+#activar1{
+  --background: rgba(23,29,61,255);
+  width:750px;
+  height: 80px;
+  font-size: 27px;
+  margin-left: 45px;
+  text-transform: none;
+  --border-radius: 10px;
+  margin-top: 20px;
+}
+#activar2{
+  --background: rgba(23,29,61,255);
+  width:750px;
+  height: 80px;
+  font-size: 27px;
+  margin-left: 45px;
+  text-transform: none;
+  --border-radius: 10px;
+  margin-top: 20px;
+}

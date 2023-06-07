@@ -1,0 +1,64 @@
+h1 {
+    font-size: 100px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+#dogimg {
+    position: fixed;
+    display: flex;
+    width: 100px;
+    margin-left: 375px;
+}
+
+#reg {
+    --background: rgba(23,29,61,255);
+    width:750px;
+    height: 80px;
+    font-size: 27px;
+    margin-left: 45px;
+    text-transform: none;
+    --border-radius: 10px;
+    margin-top: 20px;
+}
+
+#google {
+    font-size: 24px;
+    margin-left: 45px;
+    color: rgba(108,113,120,255);
+    text-transform: none;
+    --border-radius: 10px;
+    width:750px;
+    height: 80px;
+    margin-top: 200px;
+    --border-color: rgba(108,113,120,255);
+}
+
+#googleimg {
+    position:fixed;
+    margin-left: 178px;
+    margin-top: -63px;
+    width: 40px;
+    height: 40px;
+}
+
+#facebookimg {
+    position:fixed;
+    display: flow-root;
+    margin-left: 178px;
+    margin-top: -63px;
+    width: 40px;
+    height: 40px;
+}
+
+#facebook {
+    font-size: 24px;
+    margin-left: 45px;
+    text-transform: none;
+    --border-radius: 10px;
+    --border-color: rgba(108,113,120,255);
+    width:750px;
+    height: 80px;
+    margin-top: 20px;
+    color: rgba(108,113,120,255);
+}
